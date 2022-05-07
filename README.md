@@ -14,6 +14,13 @@
 - Robust design patterns
 - Extensive documentation
 
+☁️ I am also proficient with:
+- Cloud-based enterprise systems and deployments
+- VCS/git, CI/CD, Developer Operations
+- Docker, Kubernetes
+- ArcGIS Javascript and Python APIs
+- ArcGIS Enterprise/Server deployments
+
 👀 Please feel free to explore the projects in my repository to get a feel for my interests, aptitudes and style.
 
 📱 [linkedin](https://www.linkedin.com/in/bstrockdev/) is a good place to connect with me!
