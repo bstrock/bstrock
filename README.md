@@ -27,7 +27,7 @@
 
 📎 You can [Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
 
-📱 [linkedin](https://www.linkedin.com/in/bstrockdev/) is a good place to connect with me!
+📱 Or connect with me via [linkedin](https://www.linkedin.com/in/bstrockdev/)
 
 
 <!---
