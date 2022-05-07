@@ -23,7 +23,9 @@
 
 👀 Please feel free to explore the projects in my repository to get a feel for my interests, aptitudes and style.
 
-📎 You can[Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
+🔌 **Connect**
+
+📎 You can [Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
 
 📱 [linkedin](https://www.linkedin.com/in/bstrockdev/) is a good place to connect with me!
 
