@@ -27,7 +27,7 @@
 - ArcGIS Javascript and Python APIs
 - ArcGIS Enterprise/Server deployments
 
-👀 Please feel free to explore the projects in my pinned repositories to get a feel for my interests, aptitudes and style.
+👀 Please feel free to explore the projects in my 📌 **pinned repositories** to get a feel for my interests, aptitudes and style.
 
 <h2>Connect with Me</h2>
 
