@@ -1,8 +1,12 @@
+<h2>Introduction</h2>
+
 👋 Hi, I’m Brian Strock.
 
-🌐 I'm a GIS Developer from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.
+🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.
 
 🗺️ I make fun, engaging interactive maps with a focus on intentional, user-focused design and impactful outcomes.
+
+<h2>About My Work</h2>
 
 ⭐ **My development work is focused around**:
 - Python, SQL, Javascript, React.js
@@ -21,13 +25,13 @@
 - ArcGIS Javascript and Python APIs
 - ArcGIS Enterprise/Server deployments
 
-👀 Please feel free to explore the projects in my repository to get a feel for my interests, aptitudes and style.
+👀 Please feel free to explore the projects in my pinned repositories to get a feel for my interests, aptitudes and style.
 
-🔌 **Connect**
+<h2>Connect with Me</h2>
 
 📎 You can [Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
 
-📱 Or connect with me via [linkedin](https://www.linkedin.com/in/bstrockdev/)
+🔌 Or connect with me via [linkedin](https://www.linkedin.com/in/bstrockdev/)
 
 
 <!---
