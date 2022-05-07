@@ -4,7 +4,9 @@
 
 🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.
 
-🗺️ I make fun, engaging interactive maps with a focus on intentional, user-focused design and impactful outcomes.
+🗺️ I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
+
+💻 I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
 
 <h2>About My Work</h2>
 
