@@ -1,4 +1,4 @@
-👋 Hi, I’m Brian Strock
+👋 Hi, I’m Brian Strock.
 
 🌐 I'm a GIS Developer from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.
 
