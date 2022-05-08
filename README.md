@@ -4,7 +4,11 @@
 
 <h3>Background</h3>
 
-🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  I am comfortable working with a wide range of languages, frameworks, and development platforms, including both open-source and vendor-provided tools and solutions.
+🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
+
+I am comfortable working with a wide range of languages, frameworks, and development platforms, including both open-source and vendor-provided tools and solutions.
+
+My work is centered on 3 major areas of focus:
 
 <h3>GIS & Cartography</h3>
 
@@ -36,25 +40,25 @@
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
    
-<h2>Focus Areas</h2>
+<h2>Development Style</h2>
 
-**My development style focuses extensively on**:
+In all of my projects, I focus extensively on delivering:
 
-* 🔄 Back-end API and endpoint architecture
-* 🤖 Data engineering, ETL pipelines, automation
+* 🧹Clean, organized, readable code
 * 💻 Object-oriented programming
-* 🧏 Thoughtful UI/UX design
-* ✔️ Test-driven development
 * 🧱 Robust design patterns
+* ⚙️ Maintainability
+* ✔️ Test-driven development
+* 🧏 Thoughtful UI/UX design
 * 📓 Extensive documentation
 
 ☁️ **I am also proficient with**:
 
-- Cloud-based enterprise systems and deployments
-- VCS/git, CI/CD, Developer Operations
-- Docker, Kubernetes
-- ArcGIS Javascript and Python APIs
-- ArcGIS Enterprise/Server deployments
+- 🔄 Back-end API and endpoint architecture
+- 🤖 Data engineering, ETL pipelines, automation
+- ☁️ Cloud-based enterprise systems and deployments
+- 🌐 ArcGIS Javascript and Python APIs
+- 🗺️ ArcGIS Enterprise/Server deployments
 
 👀 Please feel free to explore the projects in my 📌 **pinned repositories** to get a feel for my interests, aptitudes and style.
 
@@ -62,7 +66,7 @@
 
 📎 You can [Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
 
-📫 Or connect with me via [linkedin](https://www.linkedin.com/in/bstrockdev/)
+📫 Or connect with me via [LinkedIn](https://www.linkedin.com/in/bstrockdev/)
 
 
 <!---
