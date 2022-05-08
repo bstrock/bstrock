@@ -22,7 +22,7 @@ My development work is centered on **3 primary areas of focus:**
 
 * Finally, I use cutting-edge spatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
 
-<h2>🧰 Knowledges, Skills and Aptitudes</h2>
+<h2>🧰 Skillset</h2>
 
 <h3>Languages</h3>
 
