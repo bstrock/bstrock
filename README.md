@@ -1,28 +1,28 @@
-👋 <h2>Introduction</h2>
+<h2>👋 Introduction</h2>
 
 Hi, I’m Brian Strock.
 
-<h3>ℹ️ Background</h3>
+<h3>🌐 Background</h3>
 
-🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
+* I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
 
-I am comfortable developing in a wide range of languages, frameworks, and platforms.
+<h3>🔎 Areas of Focus</h3>
 
-<h3>Areas of Focus</h3>
+My development work is centered on 3 primarary areas of focus:
 
-<h5>GIS & Cartography</h5>
+<h5>🗺️ GIS & Cartography</h5>
 
-🗺️ I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
+I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
 
-<h5>Data Engineering</h5>
+<h5>💻  Data Engineering</h5>
 
-💻 I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
+I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
 
-<h5>Spatial Data Science</h5>
+<h5>📈 Spatial Data Science</h5>
 
-📈 Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
+Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
 
-🧰 <h2>Skills and Proficiencies</h2>
+<h2>🧰 Skills and Proficiencies</h2>
 
 <h3>Languages</h3>
 
