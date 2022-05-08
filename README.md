@@ -46,7 +46,7 @@ My development work is centered on **3 primary areas of focus:**
    
 <h2>🖋️ Development Style</h2>
 
-**I focus extensively on delivering**:
+**I work hard to deliver**:
 
 * 🧹Clean, organized, readable code
 * 💻 Object-oriented programming
