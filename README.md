@@ -77,11 +77,17 @@ Please feel free to explore the projects in my 📌 **pinned repositories** to g
 
 📫 Or connect with me via [LinkedIn](https://www.linkedin.com/in/bstrockdev/)
 
-<h3> Github Stats </h3>
+<h2> Github Stats </h2>
+
+<h3>Timeline</h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bstrock&theme=vue">
 
+<h3>Habits</h3>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstrock">
+
+<h3>Trophies</h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=bstrock">
 
