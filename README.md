@@ -2,7 +2,7 @@
 
 Hi, I’m Brian Strock.
 
-ℹ️ <h3>Background</h3>
+<h3>ℹ️ Background</h3>
 
 🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
 
@@ -40,7 +40,7 @@ I am comfortable developing in a wide range of languages, frameworks, and platfo
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
    
-🖋️ <h2>Development Style</h2>
+<h2>🖋️ Development Style</h2>
 
 **I focus extensively on delivering**:
 
@@ -60,10 +60,10 @@ I am comfortable developing in a wide range of languages, frameworks, and platfo
 - 🌐 ArcGIS Javascript and Python APIs
 - 🗺️ ArcGIS Enterprise/Server deployments
 
-👀 <h2>Look Around</h2>
+<h2>👀 Look Around</h2>
 Please feel free to explore the projects in my 📌 **pinned repositories** to get a feel for my interests, aptitudes and style.
 
-🔌 <h2>Connect with Me</h2>
+<h2>🔌 Connect with Me</h2>
 
 📎 You can [Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
 
