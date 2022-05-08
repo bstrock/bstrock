@@ -8,7 +8,7 @@ I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with 
 
 <h3>🔎 Areas of Focus</h3>
 
-My development work is centered on 3 primarary areas of focus:
+My development work is centered on **3 primary areas of focus:**
 
 <h5>🗺️ GIS & Cartography</h5>
 
@@ -20,7 +20,7 @@ I also build **robust, versatile data pipelines** for a variety of purposes, inc
 
 <h5>📈 Spatial Data Science</h5>
 
-Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
+Finally, I use cutting-edge spatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
 
 <h2>🧰 Skills and Proficiencies</h2>
 
@@ -32,9 +32,9 @@ Finally, I use cutting-edgespatial data science to deliver **actionable, relevan
 
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">    
 
-<h3>Databases</h3>
+<h3>Database and Cloud Systems</h3>
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
                                                                                                                    
 <h3>Devtools</h3>
 
