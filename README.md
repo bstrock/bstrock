@@ -4,7 +4,7 @@ Hi, I’m Brian Strock.
 
 <h3>🌐 Background</h3>
 
-* I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
+I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
 
 <h3>🔎 Areas of Focus</h3>
 
