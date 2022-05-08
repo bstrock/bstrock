@@ -4,7 +4,7 @@
 
 <h3>Background</h3>
 
-🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.
+🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  I am comfortable working with a wide range of languages, frameworks, and development platforms, including both open-source and vendor-provided tools and solutions.
 
 <h3>GIS & Cartography</h3>
 
