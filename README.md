@@ -6,9 +6,9 @@
 
 🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
 
-I am comfortable working with a wide range of languages, frameworks, and development platforms, including both open-source and vendor-provided tools and solutions.
+I am comfortable developing in a wide range of languages, frameworks, and platforms.
 
-My work is centered on 3 major areas of focus:
+**My work is centered on 3 major areas of focus:**
 
 <h3>GIS & Cartography</h3>
 
