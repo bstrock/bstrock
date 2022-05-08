@@ -65,6 +65,7 @@ My development work is centered on **3 primary areas of focus:**
 - 🗺️ ArcGIS Enterprise/Server deployments
 
 <h2>👀 Look Around</h2>
+
 Please feel free to explore the projects in my 📌 **pinned repositories** to get a feel for my interests, aptitudes and style.
 
 <h2>🔌 Connect with Me</h2>
