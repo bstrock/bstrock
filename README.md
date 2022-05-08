@@ -15,7 +15,8 @@
 💻 I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
 
 <h3>Spatial Data Science</h3>
-📈 Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative geospatial business insights**, including challenging subjects such as machine learning and space-time pattern mining.
+
+📈 Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
 
 <h2>Skills and Proficiencies</h2>
 
