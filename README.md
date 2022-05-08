@@ -2,13 +2,20 @@
 
 👋 Hi, I’m Brian Strock.
 
+<h3>Background</h3>
+
 🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.
+
+<h3>GIS & Cartography</h3>
 
 🗺️ I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
 
+<h3>Data Engineering</h3>
+
 💻 I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
 
-📈 Finally, I use spatial data science to deliver **actionable, relevant, and transformative geospatial business insights**, including challenging subjects such as machine learning and space-time pattern mining.
+<h3>Spatial Data Science</h3>
+📈 Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative geospatial business insights**, including challenging subjects such as machine learning and space-time pattern mining.
 
 <h2>Skills and Proficiencies</h2>
 
@@ -31,6 +38,7 @@
 <h2>Focus Areas</h2>
 
 **My development style focuses extensively on**:
+
 🔄 Back-end API and endpoint architecture
 🤖 Data engineering, ETL pipelines, automation
 💻 Object-oriented programming
@@ -40,6 +48,7 @@
 📓 Extensive documentation
 
 ☁️ **I am also proficient with**:
+
 - Cloud-based enterprise systems and deployments
 - VCS/git, CI/CD, Developer Operations
 - Docker, Kubernetes
