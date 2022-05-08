@@ -51,7 +51,7 @@ My development work is centered on **3 primary areas of focus:**
 * 🧹Clean, organized, readable code
 * 💻 Object-oriented programming
 * 🧱 Robust design patterns
-* ⚙️ Maintainability
+* ⚙️ Maintainability and reusability
 * ✔️ Test-driven development
 * 🧏 Thoughtful UI/UX design
 * 📓 Extensive documentation
