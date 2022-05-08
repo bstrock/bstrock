@@ -40,19 +40,13 @@
 
 **My development style focuses extensively on**:
 
-🔄 Back-end API and endpoint architecture
-
-🤖 Data engineering, ETL pipelines, automation
-
-💻 Object-oriented programming
-
-🧏 Thoughtful UI/UX design
-
-✔️ Test-driven development
-
-🧱 Robust design patterns
-
-📓 Extensive documentation
+* 🔄 Back-end API and endpoint architecture
+* 🤖 Data engineering, ETL pipelines, automation
+* 💻 Object-oriented programming
+* 🧏 Thoughtful UI/UX design
+* ✔️ Test-driven development
+* 🧱 Robust design patterns
+* 📓 Extensive documentation
 
 ☁️ **I am also proficient with**:
 
