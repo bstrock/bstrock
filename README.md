@@ -1,28 +1,28 @@
-<h2>Introduction</h2>
+👋 <h2>Introduction</h2>
 
-👋 Hi, I’m Brian Strock.
+Hi, I’m Brian Strock.
 
-<h3>Background</h3>
+ℹ️ <h3>Background</h3>
 
 🌐 I'm a **professional and experienced GIS Developer** from Eden Prairie, MN with a background in Geography, Political Ecology, GIS, and Cartography.  
 
 I am comfortable developing in a wide range of languages, frameworks, and platforms.
 
-**My work is centered on 3 major areas of focus:**
+<h3>Areas of Focus</h3>
 
-<h3>GIS & Cartography</h3>
+<h5>GIS & Cartography</h5>
 
 🗺️ I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
 
-<h3>Data Engineering</h3>
+<h5>Data Engineering</h5>
 
 💻 I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
 
-<h3>Spatial Data Science</h3>
+<h5>Spatial Data Science</h5>
 
 📈 Finally, I use cutting-edgespatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
 
-<h2>Skills and Proficiencies</h2>
+🧰 <h2>Skills and Proficiencies</h2>
 
 <h3>Languages</h3>
 
@@ -40,9 +40,9 @@ I am comfortable developing in a wide range of languages, frameworks, and platfo
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
    
-<h2>Development Style</h2>
+🖋️ <h2>Development Style</h2>
 
-In all of my projects, I focus extensively on delivering:
+**I focus extensively on delivering**:
 
 * 🧹Clean, organized, readable code
 * 💻 Object-oriented programming
@@ -52,7 +52,7 @@ In all of my projects, I focus extensively on delivering:
 * 🧏 Thoughtful UI/UX design
 * 📓 Extensive documentation
 
-☁️ **I am also proficient with**:
+**I am also proficient with**:
 
 - 🔄 Back-end API and endpoint architecture
 - 🤖 Data engineering, ETL pipelines, automation
@@ -60,9 +60,10 @@ In all of my projects, I focus extensively on delivering:
 - 🌐 ArcGIS Javascript and Python APIs
 - 🗺️ ArcGIS Enterprise/Server deployments
 
-👀 Please feel free to explore the projects in my 📌 **pinned repositories** to get a feel for my interests, aptitudes and style.
+👀 <h2>Look Around</h2>
+Please feel free to explore the projects in my 📌 **pinned repositories** to get a feel for my interests, aptitudes and style.
 
-<h2>Connect with Me</h2>
+🔌 <h2>Connect with Me</h2>
 
 📎 You can [Check out my current CV](https://github.com/bstrock/bstrock/blob/main/Strock%2C%20Brian%20-%20%20Sr.%20GIS%20Developer%20-%20CV.docx)
 
