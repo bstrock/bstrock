@@ -12,15 +12,15 @@ My development work is centered on **3 primary areas of focus:**
 
 <h5>🗺️ GIS & Cartography</h5>
 
-I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
+* I make **fun, engaging interactive maps** with a focus on intentional, user-focused design and impactful outcomes.
 
 <h5>💻  Data Engineering</h5>
 
-I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
+* I also build **robust, versatile data pipelines** for a variety of purposes, including analytics, data-driven insights, and spatial and non-spatial visualization.
 
 <h5>📈 Spatial Data Science</h5>
 
-Finally, I use cutting-edge spatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
+* Finally, I use cutting-edge spatial data science to deliver **actionable, relevant, and transformative** geospatial business insights, including challenging subjects such as machine learning and space-time pattern mining.
 
 <h2>🧰 Skills and Proficiencies</h2>
 
